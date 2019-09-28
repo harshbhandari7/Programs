@@ -1,2 +1,2 @@
-# Python_programs
-This repo contains Python Basic Programs
+# Programs
+This repo contains Fundamental Programscin C/C++ and Python
