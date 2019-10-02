@@ -1,2 +1,2 @@
 # Programs
-This repo contains Fundamental Programscin C/C++ and Python
+This repo contains Fundamental Programs in C/C++ and Python
