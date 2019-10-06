@@ -16,9 +16,9 @@ void toBinary(int n) {
     Output: 01100100
     */
     
-    int bits = 8; // 
+    int bits = 8;
         for(int i = bits; i >= 0; i--){
-            if ((n>>i & 1)== 1) printf("1"); // 
+            if ((n>>i & 1)== 1) printf("1");
             else printf("0");
         }
 }
